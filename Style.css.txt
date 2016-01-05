@@ -1,0 +1,5 @@
+h1 {
+	color:#006A94;
+	display: inline-block;
+	font-size:26px;
+}
